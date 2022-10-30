@@ -34,7 +34,7 @@ I will briefly explains the important features in our application:
        
 ```
 
-TextView is used to show the texts that we hae created.
+TextView is used to show the texts that we have created.
 
 ```
         <Button
