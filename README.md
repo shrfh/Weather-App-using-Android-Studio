@@ -20,33 +20,24 @@ So let's get started on how to build our weather application!
 
 The first step in creating our application, we need to develop our layout. So what is a layout? Layout is basically how our application will looks like. 
 
-I will briefly explains the important features in our application:
+I will briefly explains the features included in our application:
 
 ```
-
-    
         <TextView
-            android:id="@+id/weatherRslt"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="20sp" />
-
-       
+            android:id="@+id"
+            android:layout_width=""
+            android:layout_height=""
+            android:textSize="" />
 ```
 
 TextView is used to show the texts that we have created.
 
 ```
         <Button
-            android:id="@+id/btnGet"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:background="#0070c7"
-            android:onClick="getWeatherDetails"
-            android:text="Get"
-            android:textColor="#FFFFFF"
-            app:backgroundTint="@null" />
+            android:id="@+id/"
+            android:layout_width=""
+            android:layout_height=""
+             />
 
 ```
 
@@ -59,6 +50,21 @@ Button feature is for clicking
 ```
 
 For this application we will use LinearLayout
+
+```
+        <Space
+            android:layout_width=""
+            android:layout_height="" />
+```
+
+Space is for creating spaces between the elements
+
+
+Now onto the Java Programming
+
+# MainActivity.Java
+
+
 
 
 
