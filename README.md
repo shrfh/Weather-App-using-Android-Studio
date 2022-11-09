@@ -1,4 +1,4 @@
-# Weather App using Android Studio (WIP Documentation)
+# Weather App using Android Studio
 Created with Video Reference: https://www.youtube.com/watch?v=gj0g1a75Lmo
 
 A Mobile Weather Application created in Android Studio using Java language programming; This application allows user to view real-time weather of a country they want. This is a simple and user-friendly application that consist the temperature, pressure, humidity of the country made for users to check the weather.
